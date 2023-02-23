@@ -79,3 +79,6 @@ h1, h2, h3, h4, p {
 #gift-img-cheers:hover {
     background-image: url("https://media4.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
 }
+#gift-img-cheers {
+    height: 200px;
+}
